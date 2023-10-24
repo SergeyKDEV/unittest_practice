@@ -25,3 +25,4 @@ htmlcov/
 .coverage.*
 coverage.xml
 *.cover
+!/news/tests/test_trial.py
